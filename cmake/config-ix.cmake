@@ -187,6 +187,7 @@ set(RISCV64 riscv64)
 set(S390X s390x)
 set(WASM32 wasm32)
 set(WASM64 wasm64)
+set(RX600 rx600)
 
 if(APPLE)
   set(ARM64 arm64)
